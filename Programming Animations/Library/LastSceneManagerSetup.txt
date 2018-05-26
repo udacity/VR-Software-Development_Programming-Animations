@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UdacityVR/Scenes/ProgrammingAnimations.unity
+  isLoaded: 1
+  isActive: 1
